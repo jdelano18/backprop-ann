@@ -1,0 +1,15 @@
+# Pycache
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
